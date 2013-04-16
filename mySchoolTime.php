@@ -1,6 +1,9 @@
 <?php	
 /* 	Copyright (c) 2013 Adam Thompson (http://adam-thompson.ca)
-	License below 												*/
+	License below 	
+	-Defaults set to 4 stream, starting in 2012 with no terms missed.
+		To change these settings, simply modify the desired value in the __construct() function (lines ~30-40)
+*/
 
 	date_default_timezone_set('America/Toronto');
 	
